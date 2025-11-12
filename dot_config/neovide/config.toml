@@ -1,0 +1,10 @@
+vsync = true
+
+[font]
+normal = ["CaskaydiaCove Nerd Font"]
+size = 16
+edging = "antialias"
+
+[box-drawing]
+# "font-glyph", "native" or "selected-native"
+mode = "font-glyph"
